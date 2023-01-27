@@ -13,6 +13,7 @@ Expose Name\Port\Status as html page apt http port.
 
 ```bash
 ./expose -config <path/to/config/>
+```
 
 ## Config
 
